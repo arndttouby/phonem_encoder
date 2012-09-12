@@ -64,6 +64,16 @@ module PhonemEncoder
     end
   end
 
+
+  # To  Encode a string based on the PHONEM algorithm, call <tt>encode_string</tt>
+  # on any String.
+  #
+  #     "Müller".encode_string
+  #
+  # This will output "mylr".
+  #
+  # This can be used for finding strings by their phonetic sound.
+  # It is optimized for the german language.
   def phonetic_code
     PhonemEncoder.encode_string self.to_s
   end
