@@ -30,6 +30,11 @@ Call `phonetic_encode` on any string to get the phonetic code of the string.
 This will output "mylr"
 
 
+## Documentation
+
+[http://rubydoc.info/gems/phonem_encoder/frames/PhonemEncoder](http://rubydoc.info/gems/phonem_encoder/frames/PhonemEncoder)
+
+
 ## Development
 
 Questions or problems? Please post them on the [issue tracker](https://github.com/arndttouby/phonem_encoder/issues).
