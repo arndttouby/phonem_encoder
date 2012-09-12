@@ -1,4 +1,4 @@
-# PHOMEN Encoder
+# PHONEM Encoder
 
 Encode a string with the PHONEM algorithm. This gem can be used for finding strings by their phonetic sound - optimized for the german language.
 
