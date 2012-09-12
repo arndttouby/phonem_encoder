@@ -32,7 +32,7 @@ This will output "mylr"
 
 ## Documentation
 
-[http://rubydoc.info/gems/phonem_encoder/frames/PhonemEncoder](http://rubydoc.info/gems/phonem_encoder/frames/PhonemEncoder)
+[http://rubydoc.info/gems/phonem_encoder/frames](http://rubydoc.info/gems/phonem_encoder/frames)
 
 
 ## Development
