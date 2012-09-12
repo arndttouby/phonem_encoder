@@ -49,4 +49,4 @@ Questions or problems? Please post them on the [issue tracker](https://github.co
 5. Create new Pull Request
 
 
-This gem is craeted by Arndt Touby and is under the MIT License.
+This gem is created by Arndt Touby and is under the MIT License.
