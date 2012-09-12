@@ -1,4 +1,3 @@
-# -*- encoding: utf-8 -*-
 require File.expand_path('../lib/phonem_encoder/version', __FILE__)
 
 Gem::Specification.new do |gem|
@@ -14,6 +13,4 @@ Gem::Specification.new do |gem|
   gem.name          = "phonem_encoder"
   gem.require_paths = ["lib"]
   gem.version       = PhonemEncoder::VERSION
-
-  gem.add_development_dependency "rspec"
 end
